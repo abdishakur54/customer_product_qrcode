@@ -20,16 +20,16 @@
 #
 #############################################################################
 {
-    'name': 'Customer and Product QR Code Generator',
+    'name': 'Customer and Product QR Code Generator By Saif',
     'version': '16.0.1.0.0',
     'summary': 'Generate Unique QR Codes for Customers and Products',
-    'description': 'QR Code, QR Code Generator, Odoo QR Code Generator,'
+    'description': '------QR Code, QR Code Generator, Odoo QR Code Generator,'
                    ' Customer QR Code, Product QR Code, QR, QR Code Odoo',
     'category': 'Extra Tools',
-    'author': 'Cybrosys Techno solutions',
-    'maintainer': 'Cybrosys Techno Solutions',
-    'company': 'Cybrosys Techno Solutions',
-    'website': 'https://www.cybrosys.com',
+    'author': 'Saif Techno solutions',
+    'maintainer': 'Saif Techno Solutions',
+    'company': 'Saif Techno Solutions',
+    'website': 'https://www.Saif.com',
     'depends': ['base', 'sale', 'stock'],
     'data': [
         'report/paperformat.xml',
